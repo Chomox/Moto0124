@@ -20,7 +20,7 @@ iOS Developer
 
 ### Interested
 ・RxSwift  
-・Design patterns
+・Design Patterns
 
 ## Output Link
 ・[Qiita](https://qiita.com/Moto0124)  

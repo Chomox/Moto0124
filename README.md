@@ -20,7 +20,7 @@ iOS Developer
 
 ### Interested
 ・RxSwift  
-・Design Patterns 
+・Design Patterns   
 ・SwiftUI/Combine
 
 ## Output Link

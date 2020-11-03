@@ -25,5 +25,5 @@ iOS Developer
 
 ## Output Link
 ・[Qiita](https://qiita.com/Moto0124)  
-・[Note](https://note.com/moto0124) 
-・[Zenn](https://zenn.dev/moto0124)
+・[Note](https://note.com/moto0124)  
+・[Zenn](https://zenn.dev/moto0124) 

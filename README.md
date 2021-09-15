@@ -18,11 +18,6 @@ Here are some ideas to get you started:
 ### Job
 iOS Developer
 
-### Interested
-・RxSwift  
-・Design Patterns   
-・SwiftUI/Combine
-
 ## Output Link
 ・[Qiita](https://qiita.com/Moto0124)  
 ・[Note](https://note.com/moto0124)  
